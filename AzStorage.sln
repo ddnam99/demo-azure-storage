@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AzStorage.MVC", "AzStorage.MVC\AzStorage.MVC.csproj", "{68B76184-2E05-49F9-B3AE-1A3795237AAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68B76184-2E05-49F9-B3AE-1A3795237AAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68B76184-2E05-49F9-B3AE-1A3795237AAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68B76184-2E05-49F9-B3AE-1A3795237AAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68B76184-2E05-49F9-B3AE-1A3795237AAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6F3A5306-5B47-4511-89F8-1278DC5DC6B1}
+	EndGlobalSection
+EndGlobal
